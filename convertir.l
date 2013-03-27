@@ -27,5 +27,4 @@ int num = 0;
 [W] printf("|/|/");
 [X] printf("}{");
 [Y] printf("'/");
-[Z] printf("2");
 %%
